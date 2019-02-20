@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AAAA,0BAA2B;EACzB,WAAW,EAAE,IAAI",
+"sources": ["../sass/_parteUno.scss"],
 "names": [],
 "file": "main.css"
 }

@@ -1,0 +1,5 @@
+El título principal deberia ser un H1 y no un H2
+Las clases son sumamente largas
+Los span se pueden sustituir por p
+Demasiados divs
+Los b se pueden sustituir por H2
